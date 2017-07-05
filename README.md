@@ -9,7 +9,6 @@ This APP is inspired by __Not Hotdog__ of Jian Yang's idea in *Silicon Valley*, 
 # Introduction
 It first retrains `TensorFlow Inception v3`'s last layer to learn how a Minion image looks like, makes a model, then applies this model into `TensorFlow`'s example iOS App to recognize a Minion.
 
-# Usage
 If you want to build your own __Not something__ from scratch, you should read from **Step 1**. Otherwise, you can jump to **Step 5**.
 
 ## Step 1
@@ -105,8 +104,8 @@ If you just want to run this app on your iPhone, you can start from this step. Y
 #### Preview
 <table>
     <tr>
-        <td><img src="https://github.com/songkuixi/NotMinion/Not_Minion_Preview.png"></td>
-        <td><img src="https://github.com/songkuixi/NotMinion/Minion_Preview.png"></td>
+        <td><img src="https://github.com/songkuixi/NotMinion/blob/master/Minion_Preview.png"></td>
+        <td><img src="https://github.com/songkuixi/NotMinion/blob/master/Not_Minion_Preview.png"></td>
     </tr>
 </table>
 
